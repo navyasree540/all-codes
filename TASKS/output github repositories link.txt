@@ -1,0 +1,18 @@
+tasks output links:
+main link:
+code link: https://github.com/navyasree540/tasks/blob/master/TASKS/HTML%20%26%20CSS/index.html
+output link : https://navyasree540.github.io/tasks/
+
+semantic:
+code link: https://github.com/navyasree540/tasks/blob/master/TASKS/HTML%20%26%20CSS/resume-1.html
+output link: https://navyasree540.github.io/tasks/resume-1.html
+
+non semantic:
+code link: https://github.com/navyasree540/tasks/blob/master/TASKS/HTML%20%26%20CSS/resume-2.html
+output link: https://navyasree540.github.io/tasks/resume-2.html
+
+bootstrap link:
+
+code link: https://github.com/navyasree540/tasks/blob/master/portfollo/index.html
+output link:
+              

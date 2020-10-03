@@ -1,0 +1,58 @@
+{
+	"details":{
+		"image":".image/navyasree.jpg",
+		"name":"K.NAVYA SREE",
+		"Present":"Software Engineer Fresher",
+		"content":["easy adapted to different natures","self motivative","friendly nature","manage stress and time"],
+		"Professional_Skills":["c","java","web development","python"]		
+	},
+
+"Career_Objective":[
+		{
+			"description":"To work in a company that offers me a consistently positive atmosphere to learn new technologies that help me to enhance my skills and to use my skills in the best possible way for acheiving company goals."
+		}
+	],
+"Project":[
+		{
+			"Title":"A Correlation Based Feature Weighting Filter for Naive Bayes",
+			"Description":"Here,we are predicting a similar or coorelation features from the large amount of data by applying the CFW(coorelation-Based Feature Weighting Filter).By applying this we can easily predict the similar features,if we have a huge amount of data we can predict the similar values by using any algorithms "
+		}
+	],
+"Academic_Details":[
+		{
+			"title":"Graduate",
+			"subtitle":"B.Tech",
+			"description":"Chadalawada Ramanamma Engineering College",
+			"Board/University":"JNTU Ananthapur",
+			"Duration":"2020",
+			"Aggregate":"76%"
+		},
+		{
+			"title":"Intermediate",
+			"subtitle":"M.P.C",
+			"description":"SeethaRamaiah Girls Junior College",
+			"Board/University":"Board of Intermediate Education,A.P",
+			"Duration":"2016",
+			"Aggregate":"91%"
+		},
+		{
+			"title":"SSC",
+			"subtitle":"Tenth Standard",
+			"description":"Jeevan Jyothi English Medium High School",
+			"Board/University":"Board of Secondary School,A.P",
+			"Duration":"2014",
+			"Aggregate":"87%"
+		}
+	],
+"Contact_Details":[
+		{
+			"phone_no":"7680024727",
+			"email":"navyasreekovvuri540gmail",
+			"address":"23-326,Sai Nagar",
+			"City":"Dharmavaram",
+			"District":"Ananthapur",
+			"Pincode":"515671"
+		}
+	]
+}
+

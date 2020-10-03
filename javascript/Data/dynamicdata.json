@@ -1,0 +1,49 @@
+{
+	
+	"details":{
+			"image":"./image/apssdc.png",
+			"name":"web design using reactjs",
+			"content":["GIT and Github","html5","css3","js","bootstrap","es6","reactjs"],
+			"attendedcount":40
+	},
+"trainers":[
+	{
+		"name":"D.SaiRam",
+		"email":"sairam.d@apssdc.in",
+		"courses":["python","web technologies","data analysis","machine learning"]	
+	},
+	{
+	"name":"k.Swami",
+		"email":"swami.k@apssdc.in",
+		"courses":["python","web technologies","data analysis","machine learning"]		
+	}
+],
+"trainees":[
+{	
+"college":"CREC",
+"count":15,
+"district":"chitoor",
+"grade":"Naac-a"
+},
+
+{
+"college":"GPCET",
+"count":5,
+"district":"kurnool",
+"grade":"A"
+},
+
+{
+	"college":"Siet",
+	"count":25,
+	"district":"kadapa",
+	"grade":"A"
+},
+{
+	"college":"RGUKT",
+	"count":4,
+	"district":"kadapa",
+	"grade":"A"
+}
+]
+}

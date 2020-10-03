@@ -1,0 +1,36 @@
+{
+  "details": {
+    "name": "K.Navya Sree",
+    "edu": "Software Engineer Fresher"
+  },
+  "skills": ["Java ", "Html", "Css", "Bootstrap", "Reactjs", "Java"],
+  "strength": ["friendly nature Postive thinking", "Self motivative", "manage stress and time","easily adapted different natures"],
+  "languages": ["English", "Telugu"],
+  "hobbies": [ "Web Browsing", "listenig Music"],
+  "career": "To work in a company that offers me a consistently positive atmosphere to learn new technologies that help me to enhance my skills and to use my skills in the best possible way for achieving company’s goals.",
+  "project":"A Correlation-based Feature Weighting Filter for Naive Bayes.",
+  "education": {
+    "0": {
+      "no": "1",
+      "clg": "Chadalawada Ramanamma Engineering College",
+      "quli": "B.Tech",
+      "yop": "2020",
+      "Aggregate":"76%"
+    },
+    "1": {
+      "no": "2",
+      "clg": "Seetharamaiah Girls Junior College",
+      "quli": "Intermediate(MPC)",
+      "yop": "2016",
+      "Aggregate":"91%"
+    },
+    "2": {
+      "no": "3",
+      "clg": "Jeevan Jyothi English Medium High School",
+      "quli": "SSC",
+      "yop": "2014",
+      "Aggregate":"87%"
+    }
+  },
+  // "courses": ["Programming Foundations with JavaScript, HTML and CSS", "Introduction to Relational Database and SQL", "Computer Vision - Object Tracking with OpenCV and Python", "Full Stack Web Development with Flask - LinkedIn"]
+}
